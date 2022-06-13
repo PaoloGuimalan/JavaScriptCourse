@@ -1,0 +1,48 @@
+JS Basics
+
+- variables
+    - let, const, var definitions
+    - variable scope (global scoped, local scoped, block scoped)
+    - discuss immutability
+    - variable hoisting
+- functions
+    - function expressions
+      - Named Function Expression // function myFunction(){ /*code block*/ }
+        - can have its own this values and will not read globe scoped this binding when not declared inside its scope
+      - Immediately Invoked Function Expression // (function(){ /*code block*/ })()
+        - cannot have its own this values
+      - Arrow Function Expression // () => { /*code block */ }
+        - can have its own this values but will use global this binding in default
+      - Anonymouse Function Expression // function(){ /*code block*/ }
+        - cannot have its own this values
+    - function uses
+      - function callback
+      - function hoisting
+      - different kinds of function returns
+      - function promises
+      - async and await
+- datatypes
+    - string and int value similarity
+    - objects introduction
+- objects
+    - objects with this binding
+    - objects with functions (object methods)
+- JSON (JavaScript Object Notation)
+    - What is json
+    - how to create a json object
+    - json dot destructuring
+    - json parameter destructuring
+    - json assignment destructuring
+- arrays
+    - array methods (splide, split, shift, pop, unshift, map)
+    - array destructuing 
+- classes
+    - constructors
+    - prototypes
+- DOM Elements (Document Object Model)
+    - what are Dom Elements
+    - types of imports in JavaScript
+    - importing in html w/ defer
+    - Dom manipulation
+    - Appending Elements
+    - Event Listeners

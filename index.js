@@ -1,15 +1,16 @@
-// console.log("Hello World!");
+function myfunction(){
+    console.log("Hello world")
+}
 
-const myPromise = new Promise((callback, resolve) => {
-    callback();
-})
+const arrowfunction = () => {
+    
+};
 
-myPromise.then(() => {
-    console.log("Hello World!")
-}).then(() => {
-    console.log("Hello Promises")
-}).then(() => {
-    return "Hello Finished!";
-}).then((data) => {
-    console.log(data);
-})
+const annonimous = function(){
+
+}
+
+(function(){
+
+})()
+

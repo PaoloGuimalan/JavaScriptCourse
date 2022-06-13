@@ -1,0 +1,26 @@
+class processEnc{
+    constructor(init_value){
+        this.value = init_value
+        this.encrypt = function(init_string){
+            console.log(init_string)
+            // this.encryptProc()
+        }
+    }
+
+    encryptProc(){
+        console.log("Hello World!");
+    }
+}
+
+class Express extends processEnc{
+
+}
+
+// const proc = new processEnc("Hello World")
+
+// proc.encrypt("Hello Class")
+
+const exp = new Express();
+
+exp.encrypt("Hello Day!")
+
