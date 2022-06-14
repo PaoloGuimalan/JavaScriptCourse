@@ -1,16 +1,16 @@
-function myfunction(){
-    console.log("Hello world")
-}
+// function myfunction(){
+//     console.log("Hello world")
+// }
 
-const arrowfunction = () => {
+// const arrowfunction = () => {
     
-};
+// };
 
-const annonimous = function(){
+// const annonimous = function(){
 
-}
+// }
 
-(function(){
+// (function(){
 
-})()
+// })()
 
