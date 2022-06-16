@@ -100,6 +100,16 @@
 // }
 
 
+// console.log("Hello World")
+
+// export const firstFunction = () => {
+//     console.log("Hello World 1")
+// }
+
+// export function secondFunction(){
+//     console.log("Hello World 2")
+// }
+
 
 //DIFFERENT KIND OF FUNCTIONS
 //KINDS OF FUNCTION RETURNS

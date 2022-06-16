@@ -19,7 +19,8 @@ JS Basics
       - function callback
       - function hoisting
       - different kinds of function returns
-      - function promises
+      - function promises -------
+      - import and export -------
       - async and await
 - datatypes
     - string and int value similarity
