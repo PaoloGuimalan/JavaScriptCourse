@@ -66,3 +66,36 @@
 
 // }
 
+// document.getElementsByTagName("body")
+
+// import myFunction from "./classes";
+
+//DOM Manipulation and Event Listeners
+
+// const body = document.getElementById("bodytag");
+
+// body.style.background = "green"
+// body.style.border = "solid 2px black"
+
+// // body.innerHTML = "Hello Earth"
+
+// body.addEventListener("mouseenter", () => {
+//     // alert("body tag was clicked")
+//     body.style.background = "red"
+// })
+
+// body.addEventListener("mouseleave", () => {
+//     body.style.background = "green"
+// })
+
+// body.addEventListener("click", () => {
+//     // body.innerHTML = "Hello Earth"
+//     document.write(
+//         "<div><p>Hello Document</p></div>"
+//     )
+// })
+
+
+// console.log(document.getElementById("bodytag"))
+
+

@@ -32,3 +32,7 @@
 // newClass.myFunction()
 
 // console.log(newClass.name)
+
+export default function myFunction(){
+    console.log("Hello World");
+}
